@@ -5,7 +5,7 @@ print("Tomar agua com gas é extremamento bom, mas pagar mais de 2 reais é emba
 '''
 DocString
 Não é um comentário!
-Usado para fazer anotações anotação
+Usado para fazer anotações/ documentar
 '''
 """
 Ou esse tipo
