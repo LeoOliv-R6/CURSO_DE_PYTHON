@@ -1,7 +1,11 @@
-nome = input('Digite seu nome:')
-amor = input('Digite o nome do seu amorzinho: ')
+"""
+CONSTANTE = "Variáveis" que não vão mudar
+Muitas condições no mesmo if (ruim)
+    <- Contagem de complexidade (ruim)
+"""
+velocidade = 61  # velocidade atual do carro
+local_carro = 100  # local em que o carro está na estrada
 
-if nome == 'Leonardo' and amor == 'Nicole':
-    print(f'{nome}, realmente a {amor} é o amor da sua vida! <3')
-else:
-    print('Não é o amor da sua vida!!!!!')
+RADAR_1 = 60  # velocidade máxima do radar 1
+LOCAL_1 = 100  # local onde o radar 1 está
+RADAR_RANGE = 1  # A distância onde o radar pega
